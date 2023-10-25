@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566170474235",
+    "project_id": "firelessontest16",
+    "storage_bucket": "firelessontest16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566170474235:android:4f16a13d863c8e7e9cc25e",
+        "android_client_info": {
+          "package_name": "com.example.firelesson16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmjOI9U1zHSrv7-cF-AH85kh6-lcrhsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
